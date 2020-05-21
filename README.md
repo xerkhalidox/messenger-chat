@@ -1,2 +1,2 @@
 # Messenger-chat
-A simple chat app using React,Nodejs and Socket.io
+Simple chat using React,Nodejs and Socket.io
